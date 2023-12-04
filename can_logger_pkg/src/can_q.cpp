@@ -46,7 +46,7 @@ class Vel_Read : public rclcpp::Node
           continue;
         }
 
-        else if(msg->topic_name == "can_msg0"){                               //pick image_8
+        else if(msg->topic_name == "can_msg0"){                               //pick can_msg0
           auto message = std_msgs::msg::String();
           message.data = "can_msg cnt :  " + std::to_string(x);
 
