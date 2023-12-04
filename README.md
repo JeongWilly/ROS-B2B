@@ -1,4 +1,4 @@
-# <span style="color: green">ROS-B2B</span>
+# ROS-B2B
 ## pkg description
 <b>if you want to test this code, you need to download ros2_humble in your linux.  </b>
 
