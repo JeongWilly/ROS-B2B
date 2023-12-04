@@ -1,6 +1,6 @@
 # ROS-B2B
 ## pkg description
-if you want to test this code, you need to download ros2_humble in your linux.  
+<b>if you want to test this code, you need to download ros2_humble in your linux.  </b>
 
 quest_pkg : turtlebot의 topic_name을 subscribe하며 bagfile을 생성한다.  
 
