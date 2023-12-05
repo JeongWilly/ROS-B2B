@@ -1,5 +1,6 @@
 # ROS-B2B  
-several camera msg type, pub/sub & logging   
+several camera msg type, pub/sub & logging  
+recently I used to real logging data, but there's a copyright issue. So i think i`ll probably test it with dummy data next time.
 
 ## pkg description
 <b>if you want to test this code, you need to download ros2_humble in your linux.  </b>
@@ -16,7 +17,6 @@ can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 
 <b>can_sub_pkg</b> : subscribe topic about can_msg  
 
 <br></br>
-recently I used to real logging data, but there's a copyright issue. So i think i`ll probably test it with dummy data next time.
 
   
   ## 매일 작업 내용 정리하기
