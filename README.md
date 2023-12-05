@@ -1,5 +1,4 @@
-# ROS-B2B  
-several camera msg type, pub/sub & logging   
+# ROS-B2B : several camera msg type, pub/sub & logging   
 
 ## pkg description 
 ###  if you want to test this code, you need to download ros2_humble in your linux.  
