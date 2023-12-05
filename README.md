@@ -10,4 +10,6 @@
 ## can_msg
 can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 내에서 pub/sub만 가능
 
-<b>can_logger_pkg</b> : publish can type topic msg & read a bagfile 
+<b>can_logger_pkg</b> : publish topic msg & read a bagfile   
+<b>can_sub_pkg</b> : subscribe topic about can_msg  
+
