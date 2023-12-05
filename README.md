@@ -6,9 +6,9 @@ recently I used to real logging data, but there's a copyright issue. So i think 
 <b>if you want to test this code, you need to download ros2_humble in your linux.  </b>
 
 ## recording turtlebot's movement
-<b>quest_pkg</b> : turtlebot의 topic_name을 subscribe하며 bagfile을 생성한다.  
+<b>quest_pkg</b> : subscribe turtlebot's topicname and generate bagfile  
 
-<b>read_quest_pkg</b> : turtlebot이 발행하는 topic_name을 publish하여 turtlebot의 움직임을 읽고, 동시에 bagfile을 생성한다.  
+<b>read_quest_pkg</b> : publish turtlebot's ros2 topicname and subscribe movement at sametime.   
 
 ## can_msg
 can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 내에서 pub/sub만 가능
