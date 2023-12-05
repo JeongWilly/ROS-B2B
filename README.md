@@ -20,6 +20,6 @@ can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 
 
 <b>can_logger_pkg</b> : publish topic msg & read a bagfile   
 <b>can_sub_pkg</b> : subscribe topic about can_msg    
-<b>can_extract_pkg</b> : re-enable the bagfile only with the code topic_name that corresponds to a specific name
+<b>can_extract_pkg</b> : re-enable the bagfile only with the code topic_name that corresponds to a specific name(can_msg)
 
 <br></br>
