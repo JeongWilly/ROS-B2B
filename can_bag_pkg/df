@@ -1,0 +1,35 @@
+[33mcommit c291483c63599125cea59ac8b8f4736b2ffd8970[m[33m ([m[1;36mHEAD -> [m[1;32mtemp[m[33m)[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Thu Nov 2 16:14:05 2023 +0900
+
+    modification code
+
+[33mcommit 6761786b45df8da6ad3d64985e8f9dea95fa9005[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Thu Nov 2 11:24:49 2023 +0900
+
+    Code corrected for error_rosbag
+
+[33mcommit a05cdf6b76b7384bcd92476bf724270922796665[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Thu Nov 2 11:14:48 2023 +0900
+
+    wrong_rogbag_code_firstTry
+
+[33mcommit 85c3a6378afb564601a0361de48aa58fb52f1db7[m[33m ([m[1;32mtest[m[33m)[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Tue Oct 31 18:19:41 2023 +0900
+
+    CMakeLists.txt package.xml src/quest.cpp
+
+[33mcommit deb1bc0d63b2010296dff2243e800106fc8bcff3[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Tue Oct 31 17:54:35 2023 +0900
+
+    ignore install, build dri
+
+[33mcommit 21e0a4e2dfde08fe8365858f3fe06f5c6aec6b9b[m[33m ([m[1;32mmaster[m[33m)[m
+Author: jwc <jwc@jwc.myguest.virtualbox.org>
+Date:   Tue Oct 31 17:53:00 2023 +0900
+
+    init repo
