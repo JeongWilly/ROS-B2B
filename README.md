@@ -25,4 +25,6 @@ can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 
 
 <br></br>
 ## sensor_msg  
-<b>image_logger_pkg</b> : read a bagfile and publish topic, watch in rqt 
+<b>image_logger_pkg</b> : read a bagfile and publish topic, watch in rqt   
+<b>image_bag_pkg</b> : generate new bagfile refer to original bagfile and filter specific topic_name  
+
