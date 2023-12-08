@@ -24,3 +24,7 @@ can viewer구현을 마치는 대로 pub/sub 확인 예정, 현재는 터미널 
 <b>can_bag_pkg</b> : re-enable the bagfile only with the code topic_name that corresponds to a specific name(can_msg)
 
 <br></br>
+## sensor_msg  
+<b>image_logger_pkg</b> : read a bagfile and publish topic, watch in rqt   
+<b>image_bag_pkg</b> : generate new bagfile refer to original bagfile and filter specific topic_name  
+<b>image_extract_pkg</b> : generate file about bagfile. The file will be immediately comparable.
